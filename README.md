@@ -38,6 +38,7 @@ pip install flask
 2. Start the app:
 python app.py
 
-3.The API will be live at:
+3. The API will be live at:
+
 http://localhost:5000
 
