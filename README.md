@@ -29,16 +29,15 @@ PUT /users/<id> – Updates an existing user.
 
 DELETE /users/<id> – Deletes a user.
 
+
 How to run
-Make sure Flask is installed:
 
-text
+1. Make sure Flask is installed:
 pip install flask
-Start the app:
 
-text
+2. Start the app:
 python app.py
-The API will be live at:
 
-text
+3.The API will be live at:
 http://localhost:5000
+
