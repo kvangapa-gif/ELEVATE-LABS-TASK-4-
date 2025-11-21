@@ -4,6 +4,8 @@ Flask User API
 This project is a simple REST API that lets you manage user information like name, email, and age. It’s built using Flask, a lightweight Python framework. All user data is stored in-memory, making it perfect for learning and quick testing.
 
 What does it do?
+
+
 You can:
 
 List all users
